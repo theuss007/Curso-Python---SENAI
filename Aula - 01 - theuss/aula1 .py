@@ -1,0 +1,5 @@
+print('ola,mundo')
+print('vaiiii, Corinthians')
+print('Jesus e REI!')
+print('larissa e morgana, baitola')
+print('bo po culto')
